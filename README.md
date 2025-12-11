@@ -5,7 +5,7 @@ This project implements a data pipeline that scrapes cryptocurrency market data 
 
 ## Data Source
 **URL**: https://api.coingecko.com/api/v3/coins/markets
-
+https://www.coingecko.com/en/coins
 **Description**: CoinGecko API provides real-time cryptocurrency market data including prices, market capitalization, trading volumes, and 24-hour price changes for the top cryptocurrencies by market cap.
 
 ## Data Fields
